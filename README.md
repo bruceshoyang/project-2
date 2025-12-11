@@ -14,4 +14,7 @@ The dashboard was created using:
 - JavaScript
 - Chart.js
 
+
 This project demonstrates responsive layout design, interactive visualizations, data parsing, and real-world business analytics concepts.
+
+[![YouTube Video](https://www.youtube.com/watch?v=KLyQZ6LAds8/0.jpg)](https://www.youtube.com/watch?v=KLyQZ6LAds8)
